@@ -2,7 +2,7 @@
 
 **Data:** 08/01/2026  
 **Empresa:** Abstergo Industries  
-**Responsável:** Seu Nome  
+**Responsável:** Atos Gibson  
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **Seu Nome**. O objetivo do projeto foi selecionar **3 serviços AWS** com a finalidade de promover **redução imediata de custos**, sem comprometer disponibilidade e segurança.
