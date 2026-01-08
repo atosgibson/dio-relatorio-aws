@@ -5,7 +5,7 @@
 **Responsável:** Atos Gibson  
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **Seu Nome**. O objetivo do projeto foi selecionar **3 serviços AWS** com a finalidade de promover **redução imediata de custos**, sem comprometer disponibilidade e segurança.
+Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **Atos Gibson**. O objetivo do projeto foi selecionar **3 serviços AWS** com a finalidade de promover **redução imediata de custos**, sem comprometer disponibilidade e segurança.
 
 ## Descrição do Projeto
 O projeto foi dividido em **3 etapas**, cada uma com objetivos específicos:
